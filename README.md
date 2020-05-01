@@ -8,6 +8,7 @@ WIP
 Clean the code
 Send only updated cells as chunks
 Lobbies
+Game end state
 
 ## Usage
 npm install
